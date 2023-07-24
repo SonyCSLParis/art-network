@@ -1,2 +1,2 @@
-# art-network
+# Art Network
 Collaboration with Sofia Baroncini and Luc Steels on art exploration using Integrative Narrative Networks
